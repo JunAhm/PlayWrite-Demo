@@ -1,0 +1,17 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="78.08447699999999">
+<testsuite name="login.test.ts" timestamp="2025-03-30T11:58:08.381Z" hostname="chromium" tests="1" failures="0" skipped="0" time="76.049" errors="0">
+<testcase name="Verify Ria Money Transfer functionality for United States" classname="login.test.ts" time="76.049">
+<system-out>
+<![CDATA[The 'calc-heading' element is now attached.
+Clicked country dropdown
+Selected 'United States' from dropdown
+Loading completed.
+Cleared the input field
+wait for Recipient receives Elements are loaded and visible.
+recipientAmountText rate: 100.00
+Verification successful: Expected = 100, Displayed = 100
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
